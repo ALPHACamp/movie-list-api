@@ -23,7 +23,9 @@ class Api::V1::MoviesController < ApiController
           genres: @movie.genres,
           description: @movie.description,
           release_date: @movie.release_date,
-          image: @movie.image
+          image: @movie.image,
+          director: @movie.director,
+          cast: @movie.cast,
       }
     }
   end
