@@ -1,9 +1,9 @@
 # README
 
-## API 網址
+## API URL
 
 ```
-http://localhost:3000/api/v1/{router}
+https://movie-list.alphacamp.io/api/v1/{router}
 ```
 
 ## API List
