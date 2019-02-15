@@ -7,10 +7,13 @@ https://movie-list.alphacamp.io/api/v1/{router}
 ```
 
 ## API List
-- [Movie Index](https://github.com/spreered/movie_list_api#movie-index)
-- [Show Movie](https://github.com/ALPHACamp/movie_list_api#show-movie)
+- [Index](https://github.com/spreered/movie_list_api#movie-index)
+- [Show](https://github.com/ALPHACamp/movie_list_api#show-movie)
 
-
+## Image
+```
+https://movie-list.alphacamp.io/poster/{filename}
+```
 
 ## Movie Index
 
