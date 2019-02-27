@@ -12,7 +12,7 @@ https://movie-list.alphacamp.io/api/v1/{router}
 
 ## Image
 ```
-https://movie-list.alphacamp.io/poster/{filename}
+https://movie-list.alphacamp.io/posters/{filename}
 ```
 
 ## Movie Index
